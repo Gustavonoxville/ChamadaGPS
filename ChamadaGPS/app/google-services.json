@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "999789409634",
+    "firebase_url": "https://instantcall-4a6d5.firebaseio.com",
+    "project_id": "instantcall-4a6d5",
+    "storage_bucket": "instantcall-4a6d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999789409634:android:7f903c708cfc31b1",
+        "android_client_info": {
+          "package_name": "com.lost.chamadagps.chamadagps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999789409634-nulk8cr3ca7fn7c0seg6i818i16k700c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATNmXTgbZsbA3JY144bm_suX7gf79ScS8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
